@@ -1,4 +1,4 @@
-// 
+// CONTROLL PANEL OF EVENTS I.E, EVENT LISTENERS ON SCROLL ETC
 
 let picNum = 1;
 PictureDrivers(picNum);
